@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="description">Imagen del personaje</string>
+    <string name="option1">Opcion 1</string>
+    <string name="option2">Opcion 2</string>
+    <string name="option3">Opcion 3</string>
+    <string name="option4">Opcion 4</string>
+</resources>
